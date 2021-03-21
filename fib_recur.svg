@@ -1,0 +1,29 @@
+<svg viewBox="0 0 371.99952697753906 319.2" width="371.99952697753906" height="319.2" xmlns="http://www.w3.org/2000/svg">
+<rect id="bg" fill="#1e1e1e" width="371.99952697753906" height="319.2" rx="4"></rect><g id="tokens" transform="translate(23.999969482421875, 26.599999999999998)"><text font-family="IBM Plex Mono" font-size="20" y="26.599999999999998">
+<tspan x="0" fill="#569CD6">fun</tspan><tspan x="35.99995422363281" fill="#D4D4D4"> </tspan><tspan x="47.99993896484375" fill="#DCDCAA">fib</tspan><tspan x="83.99989318847656" fill="#D4D4D4">: </tspan><tspan x="107.99986267089844" fill="#569CD6">i32</tspan><tspan x="143.99981689453125" fill="#D4D4D4"> </tspan><tspan x="155.9998016357422" fill="#D4D4D4">(</tspan><tspan x="167.99978637695312" fill="#9CDCFE">n</tspan><tspan x="179.99977111816406" fill="#D4D4D4">: </tspan><tspan x="203.99974060058594" fill="#569CD6">i32</tspan><tspan x="239.99969482421875" fill="#D4D4D4">) {</tspan>
+</text>
+<text font-family="IBM Plex Mono" font-size="20" y="53.199999999999996">
+<tspan x="0" fill="#D4D4D4">  </tspan><tspan x="23.999969482421875" fill="#C586C0">if</tspan><tspan x="47.99993896484375" fill="#D4D4D4"> </tspan><tspan x="59.99992370605469" fill="#9CDCFE">n</tspan><tspan x="71.99990844726562" fill="#D4D4D4"> </tspan><tspan x="83.99989318847656" fill="#D4D4D4">== </tspan><tspan x="119.99984741210938" fill="#B5CEA8">0</tspan><tspan x="131.9998321533203" fill="#D4D4D4"> </tspan><tspan x="143.99981689453125" fill="#D4D4D4">{</tspan>
+</text>
+<text font-family="IBM Plex Mono" font-size="20" y="79.8">
+<tspan x="0" fill="#D4D4D4">    </tspan><tspan x="47.99993896484375" fill="#B5CEA8">0</tspan>
+</text>
+<text font-family="IBM Plex Mono" font-size="20" y="106.39999999999999">
+<tspan x="0" fill="#D4D4D4">  </tspan><tspan x="23.999969482421875" fill="#D4D4D4">} </tspan><tspan x="47.99993896484375" fill="#C586C0">else</tspan><tspan x="95.9998779296875" fill="#D4D4D4"> </tspan><tspan x="107.99986267089844" fill="#C586C0">if</tspan><tspan x="131.9998321533203" fill="#D4D4D4"> </tspan><tspan x="143.99981689453125" fill="#9CDCFE">n</tspan><tspan x="155.9998016357422" fill="#D4D4D4"> </tspan><tspan x="167.99978637695312" fill="#D4D4D4">== </tspan><tspan x="203.99974060058594" fill="#B5CEA8">1</tspan><tspan x="215.99972534179688" fill="#D4D4D4"> </tspan><tspan x="227.9997100830078" fill="#D4D4D4">{</tspan>
+</text>
+<text font-family="IBM Plex Mono" font-size="20" y="133">
+<tspan x="0" fill="#D4D4D4">    </tspan><tspan x="47.99993896484375" fill="#B5CEA8">1</tspan>
+</text>
+<text font-family="IBM Plex Mono" font-size="20" y="159.6">
+<tspan x="0" fill="#D4D4D4">  </tspan><tspan x="23.999969482421875" fill="#D4D4D4">} </tspan><tspan x="47.99993896484375" fill="#C586C0">else</tspan><tspan x="95.9998779296875" fill="#D4D4D4"> </tspan><tspan x="107.99986267089844" fill="#D4D4D4">{</tspan>
+</text>
+<text font-family="IBM Plex Mono" font-size="20" y="186.2">
+<tspan x="0" fill="#D4D4D4">    </tspan><tspan x="47.99993896484375" fill="#DCDCAA">fib</tspan><tspan x="83.99989318847656" fill="#D4D4D4">(</tspan><tspan x="95.9998779296875" fill="#9CDCFE">n</tspan><tspan x="107.99986267089844" fill="#D4D4D4"> </tspan><tspan x="119.99984741210938" fill="#D4D4D4">- </tspan><tspan x="143.99981689453125" fill="#B5CEA8">1</tspan><tspan x="155.9998016357422" fill="#D4D4D4">) + </tspan><tspan x="203.99974060058594" fill="#DCDCAA">fib</tspan><tspan x="239.99969482421875" fill="#D4D4D4">(</tspan><tspan x="251.9996795654297" fill="#9CDCFE">n</tspan><tspan x="263.9996643066406" fill="#D4D4D4"> </tspan><tspan x="275.99964904785156" fill="#D4D4D4">- </tspan><tspan x="299.99961853027344" fill="#B5CEA8">2</tspan><tspan x="311.9996032714844" fill="#D4D4D4">)</tspan>
+</text>
+<text font-family="IBM Plex Mono" font-size="20" y="212.79999999999998">
+<tspan x="0" fill="#D4D4D4">  </tspan><tspan x="23.999969482421875" fill="#D4D4D4">}</tspan>
+</text>
+<text font-family="IBM Plex Mono" font-size="20" y="239.39999999999998">
+<tspan x="0" fill="#D4D4D4">}</tspan>
+</text></g>
+</svg>

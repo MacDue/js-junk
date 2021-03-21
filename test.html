@@ -1,0 +1,19 @@
+<script src='./shiki_mank.bundle.js'></script>
+<!-- <script src='https://unpkg.com/shiki'></script> -->
+<script>
+shiki
+  .getHighlighter({
+    theme: 'dark-plus'
+  })
+  .then(highlighter => {
+    const code = highlighter.codeToHtml(`
+    proc main {
+      println("Hello World");
+    }
+    `, 'mank')
+    document.getElementById('output').innerHTML = code
+  })
+</script>
+<body>
+  <div id="output"></div>
+</body>

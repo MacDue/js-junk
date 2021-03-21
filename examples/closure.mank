@@ -1,0 +1,5 @@
+proc closure_example {
+  make_adder := \x -> { \y -> {x + y}}
+  add_10 := make_adder(10);
+  fifteen := add_10(5);
+}

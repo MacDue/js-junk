@@ -1,0 +1,4 @@
+proc finish_presentation {
+  print("Thank you!");
+  questions := input("Any questions?");
+}

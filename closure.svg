@@ -1,0 +1,17 @@
+<svg viewBox="0 0 467.99940490722656 164.92" width="467.99940490722656" height="164.92" xmlns="http://www.w3.org/2000/svg">
+<rect id="bg" fill="#1e1e1e" width="467.99940490722656" height="164.92" rx="4"></rect><g id="tokens" transform="translate(5.999992370605469, 2.66)"><text font-family="IBM Plex Mono" font-size="20" y="26.599999999999998">
+<tspan x="0" fill="#569CD6">proc</tspan><tspan x="47.99993896484375" fill="#D4D4D4"> </tspan><tspan x="59.99992370605469" fill="#DCDCAA">closure_example</tspan><tspan x="239.99969482421875" fill="#D4D4D4"> </tspan><tspan x="251.9996795654297" fill="#D4D4D4">{</tspan>
+</text>
+<text font-family="IBM Plex Mono" font-size="20" y="53.199999999999996">
+<tspan x="0" fill="#D4D4D4">  </tspan><tspan x="23.999969482421875" fill="#9CDCFE">make_adder</tspan><tspan x="143.99981689453125" fill="#D4D4D4"> </tspan><tspan x="155.9998016357422" fill="#D4D4D4">:= \</tspan><tspan x="203.99974060058594" fill="#9CDCFE">x</tspan><tspan x="215.99972534179688" fill="#D4D4D4"> </tspan><tspan x="227.9997100830078" fill="#D4D4D4">-&gt; { \</tspan><tspan x="299.99961853027344" fill="#9CDCFE">y</tspan><tspan x="311.9996032714844" fill="#D4D4D4"> </tspan><tspan x="323.9995880126953" fill="#D4D4D4">-&gt; {</tspan><tspan x="371.99952697753906" fill="#9CDCFE">x</tspan><tspan x="383.99951171875" fill="#D4D4D4"> </tspan><tspan x="395.99949645996094" fill="#D4D4D4">+ </tspan><tspan x="419.9994659423828" fill="#9CDCFE">y</tspan><tspan x="431.99945068359375" fill="#D4D4D4">}}</tspan>
+</text>
+<text font-family="IBM Plex Mono" font-size="20" y="79.8">
+<tspan x="0" fill="#D4D4D4">  </tspan><tspan x="23.999969482421875" fill="#9CDCFE">add_10</tspan><tspan x="95.9998779296875" fill="#D4D4D4"> </tspan><tspan x="107.99986267089844" fill="#D4D4D4">:= </tspan><tspan x="143.99981689453125" fill="#DCDCAA">make_adder</tspan><tspan x="263.9996643066406" fill="#D4D4D4">(</tspan><tspan x="275.99964904785156" fill="#B5CEA8">10</tspan><tspan x="299.99961853027344" fill="#D4D4D4">);</tspan>
+</text>
+<text font-family="IBM Plex Mono" font-size="20" y="106.39999999999999">
+<tspan x="0" fill="#D4D4D4">  </tspan><tspan x="23.999969482421875" fill="#9CDCFE">fifteen</tspan><tspan x="107.99986267089844" fill="#D4D4D4"> </tspan><tspan x="119.99984741210938" fill="#D4D4D4">:= </tspan><tspan x="155.9998016357422" fill="#DCDCAA">add_10</tspan><tspan x="227.9997100830078" fill="#D4D4D4">(</tspan><tspan x="239.99969482421875" fill="#B5CEA8">5</tspan><tspan x="251.9996795654297" fill="#D4D4D4">);</tspan>
+</text>
+<text font-family="IBM Plex Mono" font-size="20" y="133">
+<tspan x="0" fill="#D4D4D4">}</tspan>
+</text></g>
+</svg>
