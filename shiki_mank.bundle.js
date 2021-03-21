@@ -10,6 +10,21 @@
     scopeName: "source.llvm",
     path: "llvm.tmLanguage.json",
   },
+  {
+    id: "cpp",
+    scopeName: "source.cpp.embedded.macro",
+    path: "cpp.tmLanguage.json"
+  },
+  {
+    id: "rust",
+    scopeName: "source.rust",
+    path: "rust.tmLanguage.json"
+  },
+  {
+    id: "c",
+    scopeName: "source.c",
+    path: "c.tmLanguage.json"
+  },
      {
       id: "ebnf",
       scopeName: "source.ebnf",
