@@ -1902,7 +1902,7 @@
       return e.startsWith("./") ? e.slice(2) : e
   }
   const z = "undefined" != typeof window && void 0 !== window.document && "undefined" != typeof fetch;
-  let q = "https://unpkg.com/shiki@0.9.2/"
+  let q = "https://unpkg.com/shiki@0.9.3/"
     , K = "";
   let X = null;
   function J(e) {
