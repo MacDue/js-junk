@@ -12,7 +12,7 @@
   },
   {
     id: "cpp",
-    scopeName: "source.cpp.embedded.macro",
+    scopeName: "source.cpp",
     path: "cpp.tmLanguage.json"
   },
   {
