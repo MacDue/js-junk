@@ -31,6 +31,11 @@
     path: "javascript.tmLanguage.json",
     aliases: ["js"]
   },
+  {
+    id: "java",
+    scopeName: "source.java",
+    path: "java.tmLanguage.json"
+  },
 /*
   {
       id: "abap",
