@@ -25,6 +25,12 @@
     scopeName: "source.c",
     path: "c.tmLanguage.json"
   },
+  {
+    id: "javascript",
+    scopeName: "source.js",
+    path: "javascript.tmLanguage.json",
+    aliases: ["js"]
+  },
      {
       id: "ebnf",
       scopeName: "source.ebnf",
