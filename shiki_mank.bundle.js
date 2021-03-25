@@ -1866,7 +1866,7 @@
   },
     "numeric-literals": {
       "name": "constant.numeric.mank",
-      "match": "\\b([0-9]+(\\.[0-9]+)?)\\b"
+      "match": "\\b((((?<=[0-9])'(?=[0-9]))|[0-9])+(\\.(((?<=[0-9])'(?=[0-9]))|[0-9])+)?)\\b"
     },
     "primitives": {
       "name": "constant.language.mank",
