@@ -36,6 +36,12 @@
     scopeName: "source.java",
     path: "java.tmLanguage.json"
   },
+  {
+    id: "python",
+    scopeName: "source.python",
+    path: "python.tmLanguage.json",
+    aliases: ["py"]
+  },
 /*
   {
       id: "abap",
